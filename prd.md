@@ -1,14 +1,13 @@
 # Product Requirements Document: Universal MIDI Utility
 
-**Project Codename:** Codex Sonorum  
+**Project Name:** MIDITools 
 **Version:** 1.0  
 **Date:** January 2026  
-**Author:** Graham  
 **Status:** Draft  
 
 ---
 
-## Executive Summary
+## Summary
 
 This document defines the product requirements for an open-source, cross-platform MIDI utility designed to consolidate and modernize the fragmented landscape of MIDI tools. The application will serve as the definitive utility for musicians, sound designers, and developers working with MIDI hardware—from vintage synthesizers and samplers to modern MIDI 2.0 devices.
 
