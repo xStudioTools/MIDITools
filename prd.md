@@ -40,15 +40,12 @@ The MIDI utility space has remained largely stagnant, with legacy tools like MID
 1. **Adoption**: 10,000+ downloads within first year
 2. **Community**: 50+ community-contributed device definitions within first year
 3. **Reliability**: 99.9% successful SysEx transfers with supported devices
-4. **Coverage**: Support for 200+ distinct device models through definitions
-5. **Reviews**: Featured in major music technology publications (Sound on Sound, Synthtopia, etc.)
 
 ### 1.4 Non-Goals (Explicit Exclusions)
 
 - **DAW/Sequencer functionality**: This is a utility, not a production tool
-- **Audio processing**: No audio effects or recording
-- **Patch editing UI**: Device-specific graphical editors are out of scope (but data manipulation is in scope)
-- **Hardware manufacture**: No proprietary hardware dependencies
+- **Audio processing**: No audio effects or recording (that will be a separate sampler-oriented project under the StudioTools umbrella)
+- **Patch editing UI**: Device-specific graphical editors are out of scope (that too will be a separate project)
 
 ---
 
